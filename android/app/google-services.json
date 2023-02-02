@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914582980733",
+    "project_id": "slide-90035",
+    "storage_bucket": "slide-90035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914582980733:android:0ded7598441c68c0fa0914",
+        "android_client_info": {
+          "package_name": "com.slide.slide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914582980733-n2qu0qlaag20al3vhb0lnf1i11i9cg4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXIYJEQKlCXOPLFKIoIwrSqCv2tC4PW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914582980733-n2qu0qlaag20al3vhb0lnf1i11i9cg4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
